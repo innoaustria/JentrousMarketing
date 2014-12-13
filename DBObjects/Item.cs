@@ -100,7 +100,8 @@ namespace JentrousMarketing.DBObjects
             this.stock_qty = itemDTO.Stock_qty;
             this.curr_loc = itemDTO.Curr_loc;
             this.supplier_id = itemDTO.Supplier_id;
-            this.version = itemDTO.Version;
+            this.version = itemDTO.Version; 
+            // Comment
         }
 
         public Supplier getSupplier(){
