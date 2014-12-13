@@ -1,0 +1,160 @@
+C:\Users\metorre\documents\visual studio 2013\Projects\JentrousMarketing\JentrousMarketing\bin\Debug\JentrousMarketing.exe.config
+C:\Users\metorre\documents\visual studio 2013\Projects\JentrousMarketing\JentrousMarketing\bin\Debug\JentrousMarketing.exe
+C:\Users\metorre\documents\visual studio 2013\Projects\JentrousMarketing\JentrousMarketing\bin\Debug\JentrousMarketing.pdb
+C:\Users\metorre\documents\visual studio 2013\Projects\JentrousMarketing\JentrousMarketing\bin\Debug\Npgsql.dll
+C:\Users\metorre\documents\visual studio 2013\Projects\JentrousMarketing\JentrousMarketing\bin\Debug\Mono.Security.dll
+C:\Users\metorre\documents\visual studio 2013\Projects\JentrousMarketing\JentrousMarketing\bin\Debug\Npgsql.pdb
+C:\Users\metorre\documents\visual studio 2013\Projects\JentrousMarketing\JentrousMarketing\bin\Debug\Npgsql.xml
+C:\Users\metorre\documents\visual studio 2013\Projects\JentrousMarketing\JentrousMarketing\bin\Debug\de\Npgsql.resources.dll
+C:\Users\metorre\documents\visual studio 2013\Projects\JentrousMarketing\JentrousMarketing\bin\Debug\es\Npgsql.resources.dll
+C:\Users\metorre\documents\visual studio 2013\Projects\JentrousMarketing\JentrousMarketing\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\metorre\documents\visual studio 2013\Projects\JentrousMarketing\JentrousMarketing\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\metorre\documents\visual studio 2013\Projects\JentrousMarketing\JentrousMarketing\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\metorre\documents\visual studio 2013\Projects\JentrousMarketing\JentrousMarketing\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\metorre\documents\visual studio 2013\Projects\JentrousMarketing\JentrousMarketing\obj\Debug\JentrousMarketing.Form1.resources
+C:\Users\metorre\documents\visual studio 2013\Projects\JentrousMarketing\JentrousMarketing\obj\Debug\JentrousMarketing.Form2.resources
+C:\Users\metorre\documents\visual studio 2013\Projects\JentrousMarketing\JentrousMarketing\obj\Debug\JentrousMarketing.Form3.resources
+C:\Users\metorre\documents\visual studio 2013\Projects\JentrousMarketing\JentrousMarketing\obj\Debug\JentrousMarketing.Properties.Resources.resources
+C:\Users\metorre\documents\visual studio 2013\Projects\JentrousMarketing\JentrousMarketing\obj\Debug\JentrousMarketing.csproj.GenerateResource.Cache
+C:\Users\metorre\documents\visual studio 2013\Projects\JentrousMarketing\JentrousMarketing\obj\Debug\JentrousMarketing.exe
+C:\Users\metorre\documents\visual studio 2013\Projects\JentrousMarketing\JentrousMarketing\obj\Debug\JentrousMarketing.pdb
+C:\Users\Dane\Desktop\JentrousMarketing\JentrousMarketing\bin\Debug\JentrousMarketing.exe.config
+C:\Users\Dane\Desktop\JentrousMarketing\JentrousMarketing\obj\Debug\JentrousMarketing.exe
+C:\Users\Dane\Desktop\JentrousMarketing\JentrousMarketing\obj\Debug\JentrousMarketing.pdb
+C:\Users\Dane\Desktop\JentrousMarketing\JentrousMarketing\obj\Debug\JentrousMarketing.csprojResolveAssemblyReference.cache
+C:\Users\Dane\Desktop\JentrousMarketing\JentrousMarketing\obj\Debug\JentrousMarketing.Forms.Users.UserListPage.resources
+C:\Users\Dane\Desktop\JentrousMarketing\JentrousMarketing\obj\Debug\JentrousMarketing.Properties.Resources.resources
+C:\Users\Dane\Desktop\JentrousMarketing\JentrousMarketing\obj\Debug\JentrousMarketing.csproj.GenerateResource.Cache
+C:\Users\Dane\Desktop\JentrousMarketing\JentrousMarketing\obj\Debug\JentrousMarketing.Forms.CustomForm.resources
+C:\Users\Dane\Desktop\JentrousMarketing\JentrousMarketing\obj\Debug\JentrousMarketing.Forms.LoginForm.resources
+C:\Users\Dane\Desktop\JentrousMarketing\JentrousMarketing\obj\Debug\JentrousMarketing.Forms.MainPage.resources
+C:\Users\Dane\Desktop\JentrousMarketing\JentrousMarketing\bin\Debug\JentrousMarketing.exe
+C:\Users\Dane\Desktop\JentrousMarketing\JentrousMarketing\bin\Debug\JentrousMarketing.pdb
+C:\Users\Dane\Desktop\JentrousMarketing\JentrousMarketing\bin\Debug\Mono.Security.dll
+C:\Users\Dane\Desktop\JentrousMarketing\JentrousMarketing\bin\Debug\Npgsql.pdb
+C:\Users\Dane\Desktop\JentrousMarketing\JentrousMarketing\bin\Debug\Npgsql.xml
+C:\Users\Dane\Desktop\JentrousMarketing\JentrousMarketing\bin\Debug\de\Npgsql.resources.dll
+C:\Users\Dane\Desktop\JentrousMarketing\JentrousMarketing\bin\Debug\es\Npgsql.resources.dll
+C:\Users\Dane\Desktop\JentrousMarketing\JentrousMarketing\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\Dane\Desktop\JentrousMarketing\JentrousMarketing\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\Dane\Desktop\JentrousMarketing\JentrousMarketing\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\Dane\Desktop\JentrousMarketing\JentrousMarketing\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\Dane\Desktop\JentrousMarketing\JentrousMarketing\obj\Debug\JentrousMarketing.Forms.MainPageResources.resources
+C:\Users\Dane\Desktop\JentrousMarketing\JentrousMarketing\obj\Debug\JentrousMarketing.Forms.Users.UserForm.resources
+C:\Users\Dane\Desktop\JentrousMarketing\JentrousMarketing\obj\Debug\JentrousMarketing.Forms.ItemStatus.ItemStatus.resources
+C:\Users\Dane\Desktop\JentrousMarketing\JentrousMarketing\obj\Debug\JentrousMarketing.Forms.Items.ItemsPage.resources
+C:\Users\Dane\Desktop\JentrousMarketing\JentrousMarketing\obj\Debug\JentrousMarketing.Forms.Supplier.Supplier.resources
+C:\Users\Dane\Desktop\JentrousMarketing\JentrousMarketing\obj\Debug\JentrousMarketing.Forms.Supplier.SupplierPage.resources
+D:\Raket\JentrousMarketing\JentrousMarketing\bin\Debug\JentrousMarketing.exe.config
+D:\Raket\JentrousMarketing\JentrousMarketing\bin\Debug\JentrousMarketing.exe
+D:\Raket\JentrousMarketing\JentrousMarketing\bin\Debug\JentrousMarketing.pdb
+D:\Raket\JentrousMarketing\JentrousMarketing\bin\Debug\Mono.Security.dll
+D:\Raket\JentrousMarketing\JentrousMarketing\bin\Debug\Npgsql.pdb
+D:\Raket\JentrousMarketing\JentrousMarketing\bin\Debug\Npgsql.xml
+D:\Raket\JentrousMarketing\JentrousMarketing\bin\Debug\de\Npgsql.resources.dll
+D:\Raket\JentrousMarketing\JentrousMarketing\bin\Debug\es\Npgsql.resources.dll
+D:\Raket\JentrousMarketing\JentrousMarketing\bin\Debug\fi\Npgsql.resources.dll
+D:\Raket\JentrousMarketing\JentrousMarketing\bin\Debug\fr\Npgsql.resources.dll
+D:\Raket\JentrousMarketing\JentrousMarketing\bin\Debug\ja\Npgsql.resources.dll
+D:\Raket\JentrousMarketing\JentrousMarketing\bin\Debug\zh-CN\Npgsql.resources.dll
+D:\Raket\JentrousMarketing\JentrousMarketing\obj\Debug\JentrousMarketing.csprojResolveAssemblyReference.cache
+D:\Raket\JentrousMarketing\JentrousMarketing\obj\Debug\JentrousMarketing.Forms.CustomForm.resources
+D:\Raket\JentrousMarketing\JentrousMarketing\obj\Debug\JentrousMarketing.Forms.ItemStatus.ItemStatus.resources
+D:\Raket\JentrousMarketing\JentrousMarketing\obj\Debug\JentrousMarketing.Forms.Items.ItemsPage.resources
+D:\Raket\JentrousMarketing\JentrousMarketing\obj\Debug\JentrousMarketing.Forms.MainPageResources.resources
+D:\Raket\JentrousMarketing\JentrousMarketing\obj\Debug\JentrousMarketing.Forms.Supplier.Supplier.resources
+D:\Raket\JentrousMarketing\JentrousMarketing\obj\Debug\JentrousMarketing.Forms.Supplier.SupplierPage.resources
+D:\Raket\JentrousMarketing\JentrousMarketing\obj\Debug\JentrousMarketing.Forms.Users.UserForm.resources
+D:\Raket\JentrousMarketing\JentrousMarketing\obj\Debug\JentrousMarketing.Forms.Users.UserListPage.resources
+D:\Raket\JentrousMarketing\JentrousMarketing\obj\Debug\JentrousMarketing.Forms.LoginForm.resources
+D:\Raket\JentrousMarketing\JentrousMarketing\obj\Debug\JentrousMarketing.Forms.MainPage.resources
+D:\Raket\JentrousMarketing\JentrousMarketing\obj\Debug\JentrousMarketing.Properties.Resources.resources
+D:\Raket\JentrousMarketing\JentrousMarketing\obj\Debug\JentrousMarketing.csproj.GenerateResource.Cache
+D:\Raket\JentrousMarketing\JentrousMarketing\obj\Debug\JentrousMarketing.exe
+D:\Raket\JentrousMarketing\JentrousMarketing\obj\Debug\JentrousMarketing.pdb
+D:\Raket\JentrousMarketing\JentrousMarketing\obj\Debug\JentrousMarketing.Forms.AdminMenuPage.resources
+C:\Users\JustinAraneta\Documents\Visual Studio 2013\Projects\JentrousMarketing\JentrousMarketing\bin\Debug\JentrousMarketing.exe.config
+C:\Users\JustinAraneta\Documents\Visual Studio 2013\Projects\JentrousMarketing\JentrousMarketing\obj\Debug\JentrousMarketing.exe
+C:\Users\JustinAraneta\Documents\Visual Studio 2013\Projects\JentrousMarketing\JentrousMarketing\obj\Debug\JentrousMarketing.pdb
+C:\Users\JustinAraneta\Documents\Visual Studio 2013\Projects\JentrousMarketing\JentrousMarketing\bin\Debug\JentrousMarketing.exe
+C:\Users\JustinAraneta\Documents\Visual Studio 2013\Projects\JentrousMarketing\JentrousMarketing\bin\Debug\JentrousMarketing.pdb
+C:\Users\JustinAraneta\Documents\Visual Studio 2013\Projects\JentrousMarketing\JentrousMarketing\bin\Debug\Mono.Security.dll
+C:\Users\JustinAraneta\Documents\Visual Studio 2013\Projects\JentrousMarketing\JentrousMarketing\bin\Debug\Npgsql.pdb
+C:\Users\JustinAraneta\Documents\Visual Studio 2013\Projects\JentrousMarketing\JentrousMarketing\bin\Debug\Npgsql.xml
+C:\Users\JustinAraneta\Documents\Visual Studio 2013\Projects\JentrousMarketing\JentrousMarketing\bin\Debug\de\Npgsql.resources.dll
+C:\Users\JustinAraneta\Documents\Visual Studio 2013\Projects\JentrousMarketing\JentrousMarketing\bin\Debug\es\Npgsql.resources.dll
+C:\Users\JustinAraneta\Documents\Visual Studio 2013\Projects\JentrousMarketing\JentrousMarketing\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\JustinAraneta\Documents\Visual Studio 2013\Projects\JentrousMarketing\JentrousMarketing\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\JustinAraneta\Documents\Visual Studio 2013\Projects\JentrousMarketing\JentrousMarketing\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\JustinAraneta\Documents\Visual Studio 2013\Projects\JentrousMarketing\JentrousMarketing\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\JustinAraneta\Documents\Visual Studio 2013\Projects\JentrousMarketing\JentrousMarketing\obj\Debug\JentrousMarketing.csprojResolveAssemblyReference.cache
+C:\Users\JustinAraneta\Documents\Visual Studio 2013\Projects\JentrousMarketing\JentrousMarketing\obj\Debug\JentrousMarketing.Forms.CustomForm.resources
+C:\Users\JustinAraneta\Documents\Visual Studio 2013\Projects\JentrousMarketing\JentrousMarketing\obj\Debug\JentrousMarketing.Forms.ItemStatus.ItemStatus.resources
+C:\Users\JustinAraneta\Documents\Visual Studio 2013\Projects\JentrousMarketing\JentrousMarketing\obj\Debug\JentrousMarketing.Forms.Items.ItemsPage.resources
+C:\Users\JustinAraneta\Documents\Visual Studio 2013\Projects\JentrousMarketing\JentrousMarketing\obj\Debug\JentrousMarketing.Forms.MainPageResources.resources
+C:\Users\JustinAraneta\Documents\Visual Studio 2013\Projects\JentrousMarketing\JentrousMarketing\obj\Debug\JentrousMarketing.Forms.Supplier.Supplier.resources
+C:\Users\JustinAraneta\Documents\Visual Studio 2013\Projects\JentrousMarketing\JentrousMarketing\obj\Debug\JentrousMarketing.Forms.Supplier.SupplierPage.resources
+C:\Users\JustinAraneta\Documents\Visual Studio 2013\Projects\JentrousMarketing\JentrousMarketing\obj\Debug\JentrousMarketing.Forms.Users.UserForm.resources
+C:\Users\JustinAraneta\Documents\Visual Studio 2013\Projects\JentrousMarketing\JentrousMarketing\obj\Debug\JentrousMarketing.Forms.Users.UserListPage.resources
+C:\Users\JustinAraneta\Documents\Visual Studio 2013\Projects\JentrousMarketing\JentrousMarketing\obj\Debug\JentrousMarketing.Forms.LoginForm.resources
+C:\Users\JustinAraneta\Documents\Visual Studio 2013\Projects\JentrousMarketing\JentrousMarketing\obj\Debug\JentrousMarketing.Forms.MainPage.resources
+C:\Users\JustinAraneta\Documents\Visual Studio 2013\Projects\JentrousMarketing\JentrousMarketing\obj\Debug\JentrousMarketing.Properties.Resources.resources
+C:\Users\JustinAraneta\Documents\Visual Studio 2013\Projects\JentrousMarketing\JentrousMarketing\obj\Debug\JentrousMarketing.csproj.GenerateResource.Cache
+C:\Users\JustinAraneta\Desktop\JentrousMarketing\JentrousMarketing\bin\Debug\JentrousMarketing.exe.config
+C:\Users\JustinAraneta\Desktop\JentrousMarketing\JentrousMarketing\obj\Debug\JentrousMarketing.exe
+C:\Users\JustinAraneta\Desktop\JentrousMarketing\JentrousMarketing\obj\Debug\JentrousMarketing.pdb
+C:\Users\JustinAraneta\Desktop\JentrousMarketing\JentrousMarketing\bin\Debug\JentrousMarketing.exe
+C:\Users\JustinAraneta\Desktop\JentrousMarketing\JentrousMarketing\bin\Debug\JentrousMarketing.pdb
+C:\Users\JustinAraneta\Desktop\JentrousMarketing\JentrousMarketing\bin\Debug\Mono.Security.dll
+C:\Users\JustinAraneta\Desktop\JentrousMarketing\JentrousMarketing\bin\Debug\Npgsql.pdb
+C:\Users\JustinAraneta\Desktop\JentrousMarketing\JentrousMarketing\bin\Debug\Npgsql.xml
+C:\Users\JustinAraneta\Desktop\JentrousMarketing\JentrousMarketing\bin\Debug\de\Npgsql.resources.dll
+C:\Users\JustinAraneta\Desktop\JentrousMarketing\JentrousMarketing\bin\Debug\es\Npgsql.resources.dll
+C:\Users\JustinAraneta\Desktop\JentrousMarketing\JentrousMarketing\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\JustinAraneta\Desktop\JentrousMarketing\JentrousMarketing\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\JustinAraneta\Desktop\JentrousMarketing\JentrousMarketing\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\JustinAraneta\Desktop\JentrousMarketing\JentrousMarketing\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\JustinAraneta\Desktop\JentrousMarketing\JentrousMarketing\obj\Debug\JentrousMarketing.csprojResolveAssemblyReference.cache
+C:\Users\JustinAraneta\Desktop\JentrousMarketing\JentrousMarketing\obj\Debug\JentrousMarketing.Forms.CustomForm.resources
+C:\Users\JustinAraneta\Desktop\JentrousMarketing\JentrousMarketing\obj\Debug\JentrousMarketing.Forms.Items.ItemsPage.resources
+C:\Users\JustinAraneta\Desktop\JentrousMarketing\JentrousMarketing\obj\Debug\JentrousMarketing.Forms.MainPageResources.resources
+C:\Users\JustinAraneta\Desktop\JentrousMarketing\JentrousMarketing\obj\Debug\JentrousMarketing.Forms.Users.UserForm.resources
+C:\Users\JustinAraneta\Desktop\JentrousMarketing\JentrousMarketing\obj\Debug\JentrousMarketing.Forms.Users.UserListPage.resources
+C:\Users\JustinAraneta\Desktop\JentrousMarketing\JentrousMarketing\obj\Debug\JentrousMarketing.Forms.LoginForm.resources
+C:\Users\JustinAraneta\Desktop\JentrousMarketing\JentrousMarketing\obj\Debug\JentrousMarketing.Forms.MainPage.resources
+C:\Users\JustinAraneta\Desktop\JentrousMarketing\JentrousMarketing\obj\Debug\JentrousMarketing.Properties.Resources.resources
+C:\Users\JustinAraneta\Desktop\JentrousMarketing\JentrousMarketing\obj\Debug\JentrousMarketing.csproj.GenerateResource.Cache
+C:\Users\JustinAraneta\Desktop\JentrousMarketing\JentrousMarketing\obj\Debug\JentrousMarketing.Forms.AdminForms.AdminPage.resources
+C:\Users\JustinAraneta\Desktop\JentrousMarketing\JentrousMarketing\obj\Debug\JentrousMarketing.Forms.Suppliers.SupplierForm.resources
+C:\Users\JustinAraneta\Desktop\JentrousMarketing\JentrousMarketing\obj\Debug\JentrousMarketing.Forms.Suppliers.SupplierPage.resources
+C:\Users\JustinAraneta\Desktop\JentrousMarketing\JentrousMarketing\obj\Debug\JentrousMarketing.Forms.ItemStatusForms.ItemStatusForm.resources
+C:\Users\JustinAraneta\Desktop\JentrousMarketing\JentrousMarketing\obj\Debug\JentrousMarketing.Forms.ItemStatusForms.ItemStatusMainForm.resources
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\JentrousMarketing12-13-2014\JentrousMarketing\JentrousMarketing\bin\Debug\JentrousMarketing.exe.config
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\JentrousMarketing12-13-2014\JentrousMarketing\JentrousMarketing\obj\Debug\JentrousMarketing.exe
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\JentrousMarketing12-13-2014\JentrousMarketing\JentrousMarketing\obj\Debug\JentrousMarketing.pdb
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\JentrousMarketing12-13-2014\JentrousMarketing\JentrousMarketing\obj\Debug\JentrousMarketing.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\JentrousMarketing12-13-2014\JentrousMarketing\JentrousMarketing\obj\Debug\JentrousMarketing.Forms.AdminForms.AdminPage.resources
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\JentrousMarketing12-13-2014\JentrousMarketing\JentrousMarketing\obj\Debug\JentrousMarketing.Forms.CustomForm.resources
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\JentrousMarketing12-13-2014\JentrousMarketing\JentrousMarketing\obj\Debug\JentrousMarketing.Forms.ItemStatusForms.ItemStatusForm.resources
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\JentrousMarketing12-13-2014\JentrousMarketing\JentrousMarketing\obj\Debug\JentrousMarketing.Forms.ItemStatusForms.ItemStatusMainForm.resources
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\JentrousMarketing12-13-2014\JentrousMarketing\JentrousMarketing\obj\Debug\JentrousMarketing.Forms.Items.ItemsPage.resources
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\JentrousMarketing12-13-2014\JentrousMarketing\JentrousMarketing\obj\Debug\JentrousMarketing.Forms.MainPageResources.resources
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\JentrousMarketing12-13-2014\JentrousMarketing\JentrousMarketing\obj\Debug\JentrousMarketing.Forms.Suppliers.SupplierForm.resources
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\JentrousMarketing12-13-2014\JentrousMarketing\JentrousMarketing\obj\Debug\JentrousMarketing.Forms.Suppliers.SupplierPage.resources
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\JentrousMarketing12-13-2014\JentrousMarketing\JentrousMarketing\obj\Debug\JentrousMarketing.Forms.Users.UserForm.resources
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\JentrousMarketing12-13-2014\JentrousMarketing\JentrousMarketing\obj\Debug\JentrousMarketing.Forms.Users.UserListPage.resources
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\JentrousMarketing12-13-2014\JentrousMarketing\JentrousMarketing\obj\Debug\JentrousMarketing.Forms.LoginForm.resources
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\JentrousMarketing12-13-2014\JentrousMarketing\JentrousMarketing\obj\Debug\JentrousMarketing.Forms.MainPage.resources
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\JentrousMarketing12-13-2014\JentrousMarketing\JentrousMarketing\obj\Debug\JentrousMarketing.Properties.Resources.resources
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\JentrousMarketing12-13-2014\JentrousMarketing\JentrousMarketing\obj\Debug\JentrousMarketing.csproj.GenerateResource.Cache
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\JentrousMarketing12-13-2014\JentrousMarketing\JentrousMarketing\bin\Debug\JentrousMarketing.exe
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\JentrousMarketing12-13-2014\JentrousMarketing\JentrousMarketing\bin\Debug\JentrousMarketing.pdb
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\JentrousMarketing12-13-2014\JentrousMarketing\JentrousMarketing\bin\Debug\Mono.Security.dll
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\JentrousMarketing12-13-2014\JentrousMarketing\JentrousMarketing\bin\Debug\Npgsql.pdb
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\JentrousMarketing12-13-2014\JentrousMarketing\JentrousMarketing\bin\Debug\Npgsql.xml
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\JentrousMarketing12-13-2014\JentrousMarketing\JentrousMarketing\bin\Debug\de\Npgsql.resources.dll
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\JentrousMarketing12-13-2014\JentrousMarketing\JentrousMarketing\bin\Debug\es\Npgsql.resources.dll
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\JentrousMarketing12-13-2014\JentrousMarketing\JentrousMarketing\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\JentrousMarketing12-13-2014\JentrousMarketing\JentrousMarketing\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\JentrousMarketing12-13-2014\JentrousMarketing\JentrousMarketing\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\lenovo\Documents\Visual Studio 2013\Projects\JentrousMarketing12-13-2014\JentrousMarketing\JentrousMarketing\bin\Debug\zh-CN\Npgsql.resources.dll
