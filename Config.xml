@@ -1,8 +1,0 @@
-<!--  Connection Details  -->
-<Config>
-	<host>localhost</host>
-	<port>5432</port>
-	<database>JENTROUS_MARKETING</database>
-	<user>postgres</user>
-	<pass>poop</pass>
-</Config>
